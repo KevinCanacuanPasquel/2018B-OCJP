@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Deber1_Ejericio3;
+package Deber1_Ejercicio3;
 
 /**
  *
