@@ -14,19 +14,19 @@ import javax.swing.JOptionPane;
  */
 public class Main {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "3.	Algoritmo para saber si un número es par o impar.");
+        JOptionPane.showMessageDialog(null, "3. Algoritmo para saber si un número es par o impar.");
         JOptionPane.showMessageDialog(null, ejercicio3());
-        JOptionPane.showMessageDialog(null, "4.	Algoritmo que dados tres números determine cuál es el mayor.");
+        JOptionPane.showMessageDialog(null, "4. Algoritmo que dados tres números determine cuál es el mayor.");
         JOptionPane.showMessageDialog(null, ejercicio4());
-        JOptionPane.showMessageDialog(null, "5.	Algoritmo para encontrar el volumen y el área de un cilindro.");
+        JOptionPane.showMessageDialog(null, "5. Algoritmo para encontrar el volumen y el área de un cilindro.");
         JOptionPane.showMessageDialog(null, ejercicio5());
-        JOptionPane.showMessageDialog(null, "6.	Algoritmo para la potencia de un número.");
+        JOptionPane.showMessageDialog(null, "6. Algoritmo para la potencia de un número.");
         JOptionPane.showMessageDialog(null, ejercicio6());
-        JOptionPane.showMessageDialog(null, "7.	Algoritmo para la raíz de un número.");
+        JOptionPane.showMessageDialog(null, "7. Algoritmo para la raíz de un número.");
         JOptionPane.showMessageDialog(null, ejercicio7());
-        JOptionPane.showMessageDialog(null, "8.	Algoritmo para dividir 2 números.");
+        JOptionPane.showMessageDialog(null, "8. Algoritmo para dividir 2 números.");
         JOptionPane.showMessageDialog(null, ejercicio8());
-        JOptionPane.showMessageDialog(null, "9.	Algoritmo para determinar un número positivo, negativo o neutro.");
+        JOptionPane.showMessageDialog(null, "9. Algoritmo para determinar un número positivo, negativo o neutro.");
         JOptionPane.showMessageDialog(null, ejercicio9());
         JOptionPane.showMessageDialog(null, "10. Algoritmo para encontrar el factorial de cualquier número.");
         JOptionPane.showMessageDialog(null, ejercicio10());
