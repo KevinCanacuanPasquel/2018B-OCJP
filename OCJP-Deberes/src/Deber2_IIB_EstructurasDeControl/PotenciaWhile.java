@@ -13,18 +13,18 @@ import javax.swing.JOptionPane;
  */
 public class PotenciaWhile {
     public static void main(String[] args) {
-        int num1 = Integer.parseInt(
+        int base = Integer.parseInt(
                 JOptionPane.showInputDialog(null, "Ingrese la base: "));
-        int num2 = Integer.parseInt(
+        int exponente = Integer.parseInt(
                 JOptionPane.showInputDialog(null, "Ingrese el exponente: "));
         
         int potencia = 1;
         int contador = 1;
-        while(contador <= num2) {
-            potencia *= num1;
+        while(contador <= exponente) {
+            potencia *= base;
             contador++;
         }
         
-        System.out.println(num1 + " elevado a " + num2 + " = " + potencia);
+        System.out.println(base + " elevado a " + exponente + " = " + potencia);
     }
 }
