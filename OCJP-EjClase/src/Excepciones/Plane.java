@@ -11,4 +11,18 @@ package Excepciones;
  */
 public class Plane {
     
+    static String s = "-";
+    public static void main(String[] args) {
+        new Plane().s1();
+        System.out.println(s);
+    }
+    
+    void s1() {
+        try {
+            s2();
+        } catch (Exception e) {
+            
+        }
+    }
+    
 }
